@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "438267258839",
+    "project_id": "kutuphane-otomasyon-fc804",
+    "storage_bucket": "kutuphane-otomasyon-fc804.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438267258839:android:217967c30b1e0044874d92",
+        "android_client_info": {
+          "package_name": "com.example.kutuphane_otomasyonu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASAqQVGk1CxH1IQhaKTKRCt_1kIRzTBJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
